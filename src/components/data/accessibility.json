@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "description": "Grab bars on tub walls"
+  },
+  {
+    "id": 2,
+    "description": "Shower chairs"
+  },
+  {
+    "id": 3,
+    "description": "Higher toilets & toilet modifiers"
+  },
+  {
+    "id": 4,
+    "description": "Lower sink faucet handles"
+  },
+  {
+    "id": 5,
+    "description": "Wheelchair clearance under sinks & vanity"
+  },
+  {
+    "id": 6,
+    "description": "Lower racks in closet"
+  },
+  {
+    "id": 7,
+    "description": "TDD machines"
+  },
+  {
+    "id": 8,
+    "description": "Telephone light signalers & smoke alarms"
+  },
+  {
+    "id": 9,
+    "description": "Telephone amplification handsets"
+  },
+  {
+    "id": 10,
+    "description": "Closed captioned television converters"
+  },
+  {
+    "id": 11,
+    "description": "Vibrating alarm clocks"
+  },
+  {
+    "id": 12,
+    "description": "Telephones with volume control"
+  }
+]
